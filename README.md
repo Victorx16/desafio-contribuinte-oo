@@ -23,7 +23,7 @@ Este programa em Java faz a leitura dos dados de renda e gastos de N contribuint
 
 2.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/Victorx16/desafio-contrubuinte-oo.git
+    git clone https://github.com/Victorx16/desafio-contribuinte-oo.git
     ```
 
 3.  **Navegue e compile o projeto:**
